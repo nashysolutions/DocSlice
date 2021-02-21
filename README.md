@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/platform-macOS%2BiOS%2Blinux-blue)
 ![](https://img.shields.io/badge/swift-5.3-blue)
+[![Build Status](https://app.bitrise.io/app/56aab2adf6b1bc79/status.svg?token=1mBREr1_-AwQJkJhfN-5Fw)](https://app.bitrise.io/app/56aab2adf6b1bc79)
 
 A command line tool for separating the pages of a PDF file into multiple smaller files. The underlying API is also available, should you want to include it in your development projects.
 
