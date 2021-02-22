@@ -35,7 +35,7 @@ try slice.run()
 ## Installation
 Install [Swift](https://swift.org/getting-started/) (at least version 5.3) then run the following commands.
 ```
-$ git clone https://github.com/Nash-Engineering/DocSlice.git
+$ git clone https://github.com/nashysolutions/DocSlice.git
 $ cd DocSlice
 $ swift build -c release
 $ cd .build/release
@@ -52,7 +52,7 @@ let package = Package(
         .macOS(.v10_13)
     ]
     dependencies: [
-        .package(name: "DocSlice", url: "https://github.com/Nash-Engineering/DocSlice.git", .upToNextMinor(from: "1.0.0"))
+        .package(name: "DocSlice", url: "https://github.com/nashysolutions/DocSlice.git", .upToNextMinor(from: "1.0.0"))
     ],
     targets: [
         .target(
