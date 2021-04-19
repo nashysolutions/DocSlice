@@ -74,3 +74,5 @@ As a result, if you mark your target as depending on the `Slice` product, Swift 
 Further, the entire `DocSlice` package will be downloaded so that files such as the README and other such documentation is available.
 
 That being said, only the source required for `Slice` will be compiled.
+
+See [thread](https://forums.swift.org/t/package-issue-unnecessary-dependencies-and-wrong-name/46952) on Swift forum.
